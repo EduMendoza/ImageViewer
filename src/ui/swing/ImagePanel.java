@@ -1,4 +1,4 @@
-package swing;
+package ui.swing;
 
 import model.Image;
 import ui.ImageViewer;

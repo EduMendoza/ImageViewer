@@ -1,4 +1,4 @@
-package file;
+package persistence.file;
 
 import model.Image;
 import persistence.ImageListLoader;

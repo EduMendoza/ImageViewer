@@ -1,4 +1,4 @@
-package swing;
+package ui.swing;
 
 import ui.ImageViewer;
 import java.awt.BorderLayout;

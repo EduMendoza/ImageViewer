@@ -1,4 +1,4 @@
-package swing;
+package ui.swing;
 
 import model.Bitmap;
 import java.awt.image.BufferedImage;

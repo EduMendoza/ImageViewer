@@ -1,9 +1,9 @@
-package file;
+package persistence.file;
 
 import model.Image;
 import model.RealImage;
 import persistence.ImageLoader;
-import swing.SwingBitmap;
+import ui.swing.SwingBitmap;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;

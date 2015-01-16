@@ -1,4 +1,4 @@
-package swing;
+package ui.swing;
 
 import java.awt.event.ActionListener;
 
